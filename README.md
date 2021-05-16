@@ -1,2 +1,2 @@
-# wxProgrameDemo
+# wxProgramDemo
 let's go!
