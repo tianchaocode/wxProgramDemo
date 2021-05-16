@@ -1,2 +1,0 @@
-# wxProgramDemo
-let's go!
