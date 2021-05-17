@@ -47,7 +47,7 @@
       },
       {
         "pagePath": "pages/myinfo/myinfo",
-        "text": " 我 ",
+        "text": "我",
         "iconPath": "icon/myinfo_not_select.png",
         "selectedIconPath": "icon/myinfo_selected.png"
       }
