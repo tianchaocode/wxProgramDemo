@@ -1,3 +1,11 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "window": {
+    "backgroundColor": "#666666",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true,
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "CodeSupply消息",
+    "navigationBarTextStyle": "black"
+  }
 }

@@ -1,2 +1,9 @@
-<!--pages/entertainment/entertainment.wxml-->
-<text>pages/entertainment/entertainment.wxml</text>
+<!--
+  1 text web中的span标签 行级元素 默认不会换行
+  2 view web中的div标签 块级元素 默认换行
+-->
+
+<text> 元素Text 1 :常量字符串</text>
+<text> 元素Text 2 :wxml->page->data->msg:{{msg}}</text>
+<view> 元素view 1 : Code Supply view 1</view>
+<view> 元素view 2 : Code Supply view 2</view>
